@@ -1,5 +1,5 @@
 # Kodluyoruz Html Odevler
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz Odevler. İçerisinde bir adet README dosyası ve Odevleri barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz Odevler. İçerisinde bir adet README dosyası ve Odevler klasörlerini barındırıyor.
 
 ## Installation
 Öncelikle projeyi clonelayın.
